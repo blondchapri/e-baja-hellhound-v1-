@@ -10,6 +10,7 @@ an archive of the thoughts , ideas and thought processes in designing a thought 
 to hit the 90% Gradeability I will use 4 x motors :
 - 2 x Yalu Brushless DC Motor 3000W for the rear wheels, one motor on each
 - 2 x Yalu Brushless DC Motor 1500W for the front wheels, one motor on each <br>
+
 y 4 motors ? cuz ambani mere lode pe <br>
 this gives us total torque of the 4 x motor = 27nm , which is way to low for our application of off road sporting  <br>
 
