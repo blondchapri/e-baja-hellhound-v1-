@@ -1,7 +1,7 @@
 # e-baja-hellhound-v1-
 an archive of the thoughts , ideas and thought processes in designing a thought experimental electric baja buggy meant for research and learning of designing a ebaja buggy
 
-##For this thought experimental e BAJA buggy I have set my target parameters as :
+## For this thought experimental e BAJA buggy I have set my target parameters as :
 •	fully follow the rules laid down by SEA India for the BAJA season 2026 
 •	90% Gradeability
 •	at least hit 60km/h
