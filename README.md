@@ -28,20 +28,20 @@ did research and landed on this setup for main tractive system
 then cross checked from the rule book and found a rule stating LV components need separate auxiliary battery then finally landed on this 
 <img width="940" height="431" alt="image" src="https://github.com/user-attachments/assets/c27eac72-8f5f-40de-9004-cf0bc6a38176" /> <br>
 ## THE VALUES of components till now 
--battery: main tractive system battery rated at 72v 80ah
--Bms: a smart automotive BMS that triggers preload/recharge circuit, contactor with Overvoltage, Under Voltage, overcurrent protection and short circuit protection at every cell
--Fuse :125 amps
--Contactor: rated at 125 amps and coil voltage preferred to be 12, online price dekh ke gand phat gaya but I think locally should be cheaper as it is regularly used in -----industrial automation 
--auxiliary battery: will depend on other LV components, will try to keep all nominal voltages of LV components the same as stepping it down or up is not allowed for category 2 as category 2 now is mandatory 
--kill switch: push to open rotary switch like the one used in mega atv  
+- battery: main tractive system battery rated at 72v 80ah
+- Bms: a smart automotive BMS that triggers preload/recharge circuit, contactor with Overvoltage, Under Voltage, overcurrent protection and short circuit protection at every cell
+- Fuse :125 amps
+- Contactor: rated at 125 amps and coil voltage preferred to be 12, online price dekh ke gand phat gaya but I think locally should be cheaper as it is regularly used in -----industrial automation 
+- auxiliary battery: will depend on other LV components, will try to keep all nominal voltages of LV components the same as stepping it down or up is not allowed for category 2 as category 2 now is mandatory 
+- kill switch: push to open rotary switch like the one used in mega atv  
 <img width="123" height="123" alt="image" src="https://github.com/user-attachments/assets/b29689a8-e55a-4b63-9823-5bc02c18b8fe" />
 
 -RTDS circuit: all the components will be rated at the battery’s nominal voltage , or the controler will have a seprate power source, the controller gets a input when we energise the kill switch and it closes the circuit on the relay/transistor which completes the circuit of the buzzer , or on the other hand if I can find a strong enough buzzer that zero can drive with the gpio I will use that
 <img width="940" height="179" alt="image" src="https://github.com/user-attachments/assets/de7df1ec-6f98-493f-bdc5-3d3b3ede1f6c" /> <br>
 -Motor controller: will try to buy in a bundle with motor as the default one will be optimized for the motor 
--throttle: a premade hall effect one 
--Pre-charge resistor: depends on the motor controller 
--icrocontroller: heavily leaning towards RP2040zero 
+- throttle: a premade hall effect one 
+- Pre-charge resistor: depends on the motor controller 
+- icrocontroller: heavily leaning towards RP2040zero 
 ## the gear box 
 I was thinking a **planetary gearbox** with the ratio of 3:1 that sits on the motor and then outputs to GX9 and GX9’s secondary is connected to the cv shafts , but I think we should add a differential so the turns will be PURE CINIMA but ig it will be too complex and transmission team wale meri gand mardenge cuz differential bhi limited slip he chiye agar dalenge toh :)
 my reasoning behind a planetary gearbox <br>
