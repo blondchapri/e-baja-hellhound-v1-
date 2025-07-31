@@ -23,9 +23,9 @@ again did math stuff landed on the gear ratio of **3:1** for the static gear box
 for the battery we will go with 80ah cuz 80 is the highest we can use (-_-)
 maybe 2x 40ah ones or 4x 20ah 
 ## electrical layout
-did research and landed on this setup for main tractive system 
+### did research and landed on this setup for main tractive system 
 <img width="940" height="336" alt="image" src="https://github.com/user-attachments/assets/3579a708-bb26-453c-a7d1-e1a255276a1e" /> <br>
-then cross checked from the rule book and found a rule stating LV components need separate auxiliary battery then finally landed on this 
+### then cross checked from the rule book and found a rule stating LV components need separate auxiliary battery then finally landed on this 
 <img width="940" height="431" alt="image" src="https://github.com/user-attachments/assets/c27eac72-8f5f-40de-9004-cf0bc6a38176" /> <br>
 ## THE VALUES of components till now 
 - battery: main tractive system battery rated at 72v 80ah
