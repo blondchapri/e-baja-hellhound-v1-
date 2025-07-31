@@ -35,6 +35,7 @@ then cross checked from the rule book and found a rule stating LV components nee
 -auxiliary battery: will depend on other LV components, will try to keep all nominal voltages of LV components the same as stepping it down or up is not allowed for category 2 as category 2 now is mandatory 
 -kill switch: push to open rotary switch like the one used in mega atv  
 <img width="123" height="123" alt="image" src="https://github.com/user-attachments/assets/b29689a8-e55a-4b63-9823-5bc02c18b8fe" />
+
 -RTDS circuit: all the components will be rated at the battery’s nominal voltage , or the controler will have a seprate power source, the controller gets a input when we energise the kill switch and it closes the circuit on the relay/transistor which completes the circuit of the buzzer , or on the other hand if I can find a strong enough buzzer that zero can drive with the gpio I will use that
 <img width="940" height="179" alt="image" src="https://github.com/user-attachments/assets/de7df1ec-6f98-493f-bdc5-3d3b3ede1f6c" /> <br>
 -Motor controller: will try to buy in a bundle with motor as the default one will be optimized for the motor 
