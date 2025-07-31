@@ -6,7 +6,7 @@ an archive of the thoughts , ideas and thought processes in designing a thought 
 -	90% Gradeability
 -	at least hit 60km/h
 -	using as much inventory of team Pegasus baja as possible 
-## Power train :
+## Power train 
 to hit the 90% Gradeability I will use 4 x motors :
 - 2 x Yalu Brushless DC Motor 3000W for the rear wheels, one motor on each
 - 2 x Yalu Brushless DC Motor 1500W for the front wheels, one motor on each <br>
