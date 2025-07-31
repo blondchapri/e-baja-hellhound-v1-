@@ -43,9 +43,9 @@ then cross checked from the rule book and found a rule stating LV components nee
 - icrocontroller: heavily leaning towards RP2040zero 
 ## the gear box 
 I was thinking a **planetary gearbox** with the ratio of 3:1 that sits on the motor and then outputs to GX9 and GX9’s secondary is connected to the cv shafts , but I think we should add a differential so the turns will be PURE CINIMA but ig it will be too complex and transmission team wale meri gand mardenge cuz differential bhi limited slip he chiye agar dalenge toh :)
-my reasoning behind a planetary gearbox <br>
+## my reasoning behind a planetary gearbox <br>
 <img width="940" height="978" alt="image" src="https://github.com/user-attachments/assets/fe366844-cbbd-4580-ac27-1337efbb27b2" />
-my reasoning behind a LSD <br>
+## my reasoning behind a LSD <br>
 <img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/6484c510-af0a-40db-ad0d-b294ee7bc4d0" />
 
 
