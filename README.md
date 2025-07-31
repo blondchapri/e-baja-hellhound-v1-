@@ -1,11 +1,11 @@
 # e-baja-hellhound-v1-
 an archive of the thoughts , ideas and thought processes in designing a thought experimental electric baja buggy meant for research and learning of designing a ebaja buggy
 
-## For this thought experimental e BAJA buggy I have set my target parameters as :
-•	fully follow the rules laid down by SEA India for the BAJA season 2026 
-•	90% Gradeability
-•	at least hit 60km/h
-•	using as much inventory of team Pegasus baja as possible 
+## For this thought experimental e BAJA buggy I have set my target parameters as : 
+-	fully follow the rules laid down by SEA India for the BAJA season 2026 
+-	90% Gradeability
+-	at least hit 60km/h
+-	using as much inventory of team Pegasus baja as possible 
 Power train :
 to hit the 90% Gradeability I will use 4 x motors 
 2 x Yalu Brushless DC Motor 3000W for the rear wheels, one motor on each
