@@ -9,9 +9,9 @@ an archive of the thoughts , ideas and thought processes in designing a thought 
 ## Power train :
 to hit the 90% Gradeability I will use 4 x motors :
 - 2 x Yalu Brushless DC Motor 3000W for the rear wheels, one motor on each
-- 2 x Yalu Brushless DC Motor 1500W for the front wheels, one motor on each
-y 4 motors ? cuz ambani mere lode pe 
-which gives us total torque of the 4 x motor = 27nm , which is way to low for our application of off road sporting  , 
+- 2 x Yalu Brushless DC Motor 1500W for the front wheels, one motor on each <br>
+y 4 motors ? cuz ambani mere lode pe <br>
+this gives us total torque of the 4 x motor = 27nm , which is way to low for our application of off road sporting  <br>
 and then I did math stuff and figured this shit is stupid, too complex, better to use a single good motor rather than 4 shitty ones, so I switch to 
 1x DATAI PMSM Motor 8000W 60V/72V dual speed
 it has 50nm torque output ( ˶°ㅁ°) !! 
