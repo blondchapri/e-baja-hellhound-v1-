@@ -15,7 +15,7 @@ y 4 motors ? cuz ambani mere lode pe <br>
 this gives us total torque of the 4 x motor = 27nm , which is way to low for our application of off road sporting  <br>
 
 and then I did math stuff and figured this shit is stupid, too complex, better to use a single good motor rather than 4 shitty ones, so I switch to 
-**1x DATAI PMSM Motor 8000W 60V/72V dual speed**
+**1x DATAI PMSM Motor 8000W 60V/72V dual speed** <br>
 it has **50nm of torque** ( ˶°ㅁ°) !! <br>
 
 did more math stuff and got to the conclusion that a static gear box was not very versatile and bad , then I remembered Team Pegasus Baja’s inventory has a CVT and would be perfect for this and would help in making the static gearbox smaller while giving good torque and maintaining nice sustained/top speeds , the one we had was an old **Gaged GX9** 
