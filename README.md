@@ -12,9 +12,10 @@ to hit the 90% Gradeability I will use 4 x motors :
 - 2 x Yalu Brushless DC Motor 1500W for the front wheels, one motor on each <br>
 y 4 motors ? cuz ambani mere lode pe <br>
 this gives us total torque of the 4 x motor = 27nm , which is way to low for our application of off road sporting  <br>
+
 and then I did math stuff and figured this shit is stupid, too complex, better to use a single good motor rather than 4 shitty ones, so I switch to 
-1x DATAI PMSM Motor 8000W 60V/72V dual speed
-it has 50nm torque output ( ˶°ㅁ°) !! 
+**1x DATAI PMSM Motor 8000W 60V/72V dual speed**
+it has **50nm of torque** ( ˶°ㅁ°) !! <br>
 did more math stuff and got to the conclusion that a static gear box was not very versatile and bad , then I remembered Team Pegasus Baja’s inventory has a CVT and would be perfect for this and would help in making the static gearbox smaller while giving good torque and maintaining nice sustained/top speeds , the one we had was an old Gaged GX9 , again did math stuff landed on the gear ratio of 3:1 for the static gear box , with GX9 the total ratio comes out to 11.7:1 this keeps the gradability at 90% assuming weight is 270kg and using the existing wheels used by Team Pegasus baja in the size of 23X7-10
 for the battery we will go with 80ah cuz 80 is the highest we can use (-_-)  , maybe 2x 40ah ones or 4x 20ah 
 
